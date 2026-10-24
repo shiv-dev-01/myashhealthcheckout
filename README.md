@@ -45,6 +45,7 @@ The dev server opens at http://localhost:3000.
 - `myashhealth_checkout`
 - `__MACOSX`
 - `.gitignore`
+- `README.md`
 
 ## Configuration
 
